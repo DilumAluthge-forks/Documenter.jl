@@ -1,3 +1,0 @@
-```@autodocs
-Modules = [DocTestsTests.FooWorking]
-```
